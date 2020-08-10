@@ -1,0 +1,9 @@
+
+- w3schools:
+	https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_button_formmethod
+
+- Instalando python:
+	https://github.com/reinaldorossetti/udemy_my_course/blob/master/Instalando_o_python.MD
+
+- Material do curso no github:
+	https://github.com/reinaldorossetti/udemy_my_course
